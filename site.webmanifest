@@ -1,0 +1,16 @@
+{
+  "name": "JJM Thai Pay",
+  "short_name": "JJM Thai",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e9faff",
+  "theme_color": "#087fc5",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
